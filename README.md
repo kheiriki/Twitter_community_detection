@@ -1,4 +1,4 @@
-# Twitter_community_detection
+#Twitter_community_detection
 ##Twitter User Clustering using DBSCAN, hierarchical, and Spectrul
 This code performs clustering of Twitter users based on their follower-followee relationships using the Density-Based Spatial, hierarchical, and Spectrul Clustering of Applications. The primary objective is to group users into clusters that share similar interaction patterns within the Twitter network.
 
